@@ -1,7 +1,4 @@
-# statprog_debug
+## Statprog2_Group project
 
-
-Added from main
-
-## Added from new branch
-
+Individual contribution statement.qmd + rendered PDF
+Individual reflection log 
